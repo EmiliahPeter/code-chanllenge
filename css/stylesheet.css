@@ -1,0 +1,25 @@
+img{
+    border-radius: 100%;
+    width:30% ;
+    height: 80;
+}
+#header-box{
+    text-align:center ;
+    background-color:black;
+    color: white;
+}
+hr{
+    background-color:black ;
+    border-top: 4px solid black;
+}
+#skills-list{
+    list-style-type: none;
+}
+ol{
+    list-style-type: none;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
